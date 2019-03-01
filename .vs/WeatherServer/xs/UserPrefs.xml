@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CAA35F5E-81C5-4D4B-8FCD-C548CE7F8428}|Default">
+  <MonoDevelop.Ide.ItemProperties.WeatherServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherServer/Controllers/ForecastController.cs">
+    <Files>
+      <File FileName="WeatherServer/Controllers/ForecastController.cs" Line="30" Column="10" />
+      <File FileName="WeatherServer/WeatherAPI/WeatherManager.cs" Line="55" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherServer" expanded="True">
+            <Node name="WeatherServer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

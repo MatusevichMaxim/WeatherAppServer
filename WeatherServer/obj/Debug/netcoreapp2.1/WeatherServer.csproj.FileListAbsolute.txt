@@ -1,0 +1,14 @@
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/bin/Debug/netcoreapp2.1/WeatherServer.deps.json
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/bin/Debug/netcoreapp2.1/WeatherServer.runtimeconfig.json
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/bin/Debug/netcoreapp2.1/WeatherServer.runtimeconfig.dev.json
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/bin/Debug/netcoreapp2.1/WeatherServer.dll
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/bin/Debug/netcoreapp2.1/WeatherServer.pdb
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.csprojAssemblyReference.cache
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.csproj.CoreCompileInputs.cache
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.RazorAssemblyInfo.cache
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.RazorAssemblyInfo.cs
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.AssemblyInfoInputs.cache
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.AssemblyInfo.cs
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.RazorTargetAssemblyInfo.cache
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.dll
+/Users/maxim.matusevich/Desktop/Test.Projects/WeatherApp/WeatherServer/WeatherServer/obj/Debug/netcoreapp2.1/WeatherServer.pdb
